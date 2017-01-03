@@ -1,4 +1,4 @@
-Package: monocle
+Package: monocle2
 Type: Package
 Title: Clustering, differential expression, and trajectory analysis for single-
     cell RNA-Seq
